@@ -42,3 +42,39 @@ sudo apt-get install jenkins
 - ###### Add inbound traffic rules as shown in the image (you can just allow TCP 8080 as well, in my case, I allowed All traffic).
 
 <img width="2374" height="396" alt="image" src="https://github.com/user-attachments/assets/c9a46139-df0d-4038-b1d4-3574758289c9" />
+
+#### Step 3 : Login to Jenkins using the below URL
+##### http://:8080 [You can get the ec2-instance-public-ip-address from your AWS EC2 console page]
+
+##### Note: If you are not interested in allowing All Traffic to your EC2 instance 
+- Delete the inbound traffic rule for your instance  
+- Edit the inbound traffic rule to only allow custom TCP port 8080
+
+##### After you login to Jenkins, - Run the command to copy the Jenkins Admin Password - sudo cat /var/lib/jenkins/secrets/initialAdminPassword - Enter the Administrator password
+
+
+<img width="2582" height="1192" alt="image" src="https://github.com/user-attachments/assets/ed493d2f-8157-4991-8393-ccfe609469c4" />
+
+###### Click on Install suggested plugins
+
+<img width="2582" height="1192" alt="image" src="https://github.com/user-attachments/assets/bc21f68f-5695-4d7a-bb96-d489b7041c7c" />
+
+###### Wait for the Jenkins to Install suggested plugins
+
+
+<img width="2582" height="1192" alt="image" src="https://github.com/user-attachments/assets/c74e8002-ce4d-4ffb-b500-714fb808dcc4" />
+
+###### Create First Admin User or Skip the step [If you want to use this Jenkins instance for future use-cases as well, better to create admin user]
+
+
+<img width="1980" height="1232" alt="image" src="https://github.com/user-attachments/assets/abe890d3-38a6-423f-9032-da5f4c7e492e" />
+
+##### Jenkins Installation is Successful. You can now starting using the Jenkins
+
+
+<img width="1980" height="1232" alt="image" src="https://github.com/user-attachments/assets/be960f3a-e1bb-47e7-a30e-99c1161ef9e0" />
+
+
+
+
+
