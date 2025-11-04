@@ -9,7 +9,8 @@ Install Jenkins, configure Docker as slave, set up cicd, deploy applications to 
 <img width="1988" height="1194" alt="image" src="https://github.com/user-attachments/assets/b767dcde-61c5-456a-ae33-369f65aaa1f6" />
 
 #### Step 2 : Install Jenkins.
--   ##### Java (JDK) 
+-   ##### Java (JDK)
+  
 #### Run the below commands to install Java and Jenkins
 ##### Install Java
 
