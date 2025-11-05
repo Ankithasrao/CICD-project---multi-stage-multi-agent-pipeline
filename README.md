@@ -1,4 +1,5 @@
-# CICD-project-1-using-Docker-as-slave-deploy-applications-to-k8s-using-Argo-CD-in-GitOps-way.
+# CICD project-1  : multi-stage-multi-agent-pipeline
+## In this project using Docker-as-slave we are building the jenkins multi-stage pipeline 
 Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
 
 #### Step 1 :  AWS EC2 Instance
