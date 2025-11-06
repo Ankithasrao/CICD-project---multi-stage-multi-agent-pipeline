@@ -110,3 +110,9 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 ##### The docker agent configuration is now successful.
+
+<img width="1316" height="838" alt="multi-stage-multi-agent" src="https://github.com/user-attachments/assets/3c9860d9-4919-48da-9832-d22650c004f6" />
+
+<img width="1176" height="821" alt="multi-stage-multi-agent 1" src="https://github.com/user-attachments/assets/953d07cb-e031-494a-99e3-33d333b2bdb4" />
+
+
