@@ -111,7 +111,7 @@ http://<ec2-instance-public-ip>:8080/restart
 
 ##### The docker agent configuration is now successful.
 
-#### Jenkins pipeline output: 
+## Jenkins pipeline output: 
 
 <img width="1316" height="838" alt="multi-stage-multi-agent" src="https://github.com/user-attachments/assets/3c9860d9-4919-48da-9832-d22650c004f6" />
 
