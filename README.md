@@ -3,7 +3,7 @@
 Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
 
 #### Step 1 :  AWS EC2 Instance
-#####  *  Go to AWS Console
+##### *  Go to AWS Console
 ##### *  Instances(running)
 ##### *  Launch instances
 
